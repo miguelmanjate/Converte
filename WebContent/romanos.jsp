@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-<h1>O numero eh ${romanos }</h1>
+<h1> O Valor ${param.natural} Invalido introdusa numeros menores que 40000</h1>
 </body>
 </html>

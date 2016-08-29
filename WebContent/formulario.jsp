@@ -7,12 +7,13 @@
 <title>Insert title here</title>
 </head>
 <body>
-<h1>Converte numeros!!!!!</h1>
+<h1>Converte numeros inteiro menores que 4000</h1>
 <form action="adiciona" method="post">
 Numero: <input type="text" name="natural"/> <br/>
 <input type="submit" value="converte"> <br />
-Romanos: <input type="text" name="romanos">
+Romanos: <input type="text" name="romanos" value="${romano }">
 
 </form>
+
 </body>
 </html>
